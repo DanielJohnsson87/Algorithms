@@ -6,7 +6,7 @@ A collection of JavaScript, C and PHP implementations of some algorithms. This i
     * [C](https://github.com/Trobiz/Algorithms/tree/master/binary-search/C)
     * [Php](https://github.com/Trobiz/Algorithms/tree/master/binary-search/Php)
 * Quick sort
-    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/quicksort/JS)
-    * [Php](https://github.com/Trobiz/Algorithms/tree/master/quicksort/Php)
+    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/quick-sort/JS)
+    * [Php](https://github.com/Trobiz/Algorithms/tree/master/quick-sort/Php)
 * Merge sort
-    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/mergesort/JS)
+    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/merge-sort/JS)
