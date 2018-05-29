@@ -1,14 +1,12 @@
-# Grokking Algorithms
-JavaScript, C and Php implementations of some algorithms found in the book Grokking Algorithms: An Illustrated Guide for Programmers and Other by Aditya Y. Bhargava.
-
-### Algorithms in this repository
-Algorithms implemented so far
+# Algorithms
+A collection of JavaScript, C and PHP implementations of some algorithms. This is just a place for me to learn. These algorithms aren't properly tested and you shouldn't use them in production.     
 
 * Binary Serach
-    * [JavaScript](https://github.com/Trobiz/grokking-algorithms/tree/master/binary-search/JS)
-    * [C](https://github.com/Trobiz/grokking-algorithms/tree/master/binary-search/C)
-    * [Php](https://github.com/Trobiz/grokking-algorithms/tree/master/binary-search/Php)
-* Quicksort
-    * [JavaScript](https://github.com/Trobiz/grokking-algorithms/tree/master/quicksort/JS)
-    * C
-    * [Php](https://github.com/Trobiz/grokking-algorithms/tree/master/quicksort/Php)
+    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/binary-search/JS)
+    * [C](https://github.com/Trobiz/Algorithms/tree/master/binary-search/C)
+    * [Php](https://github.com/Trobiz/Algorithms/tree/master/binary-search/Php)
+* Quick sort
+    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/quicksort/JS)
+    * [Php](https://github.com/Trobiz/Algorithms/tree/master/quicksort/Php)
+* Merge sort
+    * [JavaScript](https://github.com/Trobiz/Algorithms/tree/master/mergesort/JS)
